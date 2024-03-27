@@ -1,0 +1,16 @@
+-PROJECT mới
+  Lên git tạo repository  
+  vào folder code
+  git init
+  git remote copy trên git hub
+  git add .
+  git commit -m "noi dung can thong bao"
+  git push origin master
+
+-Project đã push lên git r cần update thêm code
+  git add .
+  git commit -m "noi dung can thong bao"
+  git push origin master
+
+-Lấy project trên github
+ git clone https: link duong dan den project tren git
