@@ -14,3 +14,13 @@
 
 -Lấy project trên github
  git clone https: link duong dan den project tren git
+
+- Các lệnh git thường dùng
+  git branch  // kiểm tra branch hiện tại
+  git branch <name_branch> // tạo mới 1 branch
+  git checkout -b <name_branch> // Để chuyển và tạo mới
+  git checkout <name_branch> // Checkout 1 nhánh
+
+- Merge nhánh
+  git checkout master
+  git merge <new_branch>
