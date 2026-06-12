@@ -2,7 +2,7 @@
   Lên git tạo repository  
   vào folder code
   git init
-  git remote copy trên git hub
+  git remote add origin <link remote>
   git add .
   git commit -m "noi dung can thong bao"
   git push origin master
@@ -13,7 +13,7 @@
   git push origin master
 
 -Lấy project trên github
- git clone https: link duong dan den project tren git
+ git clone https <link duong dan den project tren git>
 
 - Các lệnh git thường dùng
   git branch  // kiểm tra branch hiện tại
@@ -23,4 +23,4 @@
 
 - Merge nhánh
   git checkout master
-  git merge <new_branch>
+  git merge <branch cần merge>
